@@ -4,15 +4,16 @@
 >
 > 更新时间：每天北京时间 10:00 左右（每周随机跳过 1 天）。
 
-目前共收录 **1** 天、**4** 条新闻。
+目前共收录 **2** 天、**8** 条新闻。
 
 ## 目录
 
 <details open>
-<summary><strong>2026-11</strong>（1 天，4 条）</summary>
+<summary><strong>2026-11</strong>（2 天，8 条）</summary>
 
 | 日期 | 条数 | 当日新闻 |
 | --- | ---: | --- |
+| [2026-11-26](2026/11/2026-11-26/morning.md) | 4 | Claude 作品可一键装成桌面应用，提示词直达独立软件；GPT-6.2 Sol 进入 ChatGPT 对话页，GPT-5.6 定于 12 月 23 日退役；Anthropic 推出 Claude Ship，三智能体接管 PR 审阅与批准；DeepSeek 完成约 150 亿美元融资，估值约 860 亿美元，筹备科创板上市 |
 | [2026-11-25](2026/11/2026-11-25/morning.md) | 4 | OpenAI 称 GPT-6 能设计蛋白质，实验室验证出结合迹象；Gemini 4 Neon 在 LiveBench 登顶，DeepMind 重回前沿榜首；智谱发布 GLM-5.4，首款循环 Transformer 旗舰模型；我国牵头研制 29 项 AI 基础共性国际标准 |
 
 </details>
