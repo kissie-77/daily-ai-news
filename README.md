@@ -4,15 +4,16 @@
 >
 > 更新时间：每天北京时间 10:00 左右（每周随机跳过 1 天）。
 
-目前共收录 **3** 天、**12** 条新闻。
+目前共收录 **4** 天、**16** 条新闻。
 
 ## 目录
 
 <details open>
-<summary><strong>2026-11</strong>（3 天，12 条）</summary>
+<summary><strong>2026-11</strong>（4 天，16 条）</summary>
 
 | 日期 | 条数 | 当日新闻 |
 | --- | ---: | --- |
+| [2026-11-28](2026/11/2026-11-28/morning.md) | 4 | Liquid AI 发布决策模型 d1.3-ultra，登顶决策指数榜首；鸿海研究院 FoxBrain v2.1 在台湾主权 AI 评测中排名全球第二；xAI 发布 Grok Build 1.0.92，强化无人值守编程代理可靠性；腾讯混元发布原生 3D 生成模型 Hy3D 3.6，面向生产级美术资产 |
 | [2026-11-27](2026/11/2026-11-27/morning.md) | 4 | Neuralink 获 FDA 批准启动首个脑机接口关键性试验；DeepL 推出语音翻译模型 Aure v2，延迟减半；印度推出本土基础模型 Chariot-1，覆盖英语及十种印度语言；英伟达公开 Nemotron 3.5 Parse 训练数据与微调配方 |
 | [2026-11-26](2026/11/2026-11-26/morning.md) | 4 | Claude 作品可一键装成桌面应用，提示词直达独立软件；GPT-6.2 Sol 进入 ChatGPT 对话页，GPT-5.6 定于 12 月 23 日退役；Anthropic 推出 Claude Ship，三智能体接管 PR 审阅与批准；DeepSeek 完成约 150 亿美元融资，估值约 860 亿美元，筹备科创板上市 |
 | [2026-11-25](2026/11/2026-11-25/morning.md) | 4 | OpenAI 称 GPT-6 能设计蛋白质，实验室验证出结合迹象；Gemini 4 Neon 在 LiveBench 登顶，DeepMind 重回前沿榜首；智谱发布 GLM-5.4，首款循环 Transformer 旗舰模型；我国牵头研制 29 项 AI 基础共性国际标准 |
